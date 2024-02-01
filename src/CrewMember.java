@@ -12,4 +12,26 @@ public class CrewMember {
         this.department = inDT;
 
     }
+
+    public String getFullName(){
+
+        return fullname;
+    }
+
+    public int getCrewID(){
+
+        return crewID;
+    }
+
+    public String getDepartment(){
+
+        return department;
+    }
+
+    public String toString(){
+
+
+    }
+
+
 }
