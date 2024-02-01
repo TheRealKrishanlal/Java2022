@@ -1,8 +1,9 @@
+import java.time.LocalDate;
 import java.util.Date;
 
 public class Officer {
     private int rank;
-    private Date datePromoted;
+    private LocalDate datePromoted;
 
     int numPromotedOfficers = 0;
 
