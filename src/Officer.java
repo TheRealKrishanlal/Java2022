@@ -9,6 +9,5 @@ public class Officer {
 
     public Officer(){
 
-
     }
 }
