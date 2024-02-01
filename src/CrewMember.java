@@ -30,8 +30,11 @@ public class CrewMember {
 
     public String toString(){
 
+            String fn = fullname;
+            int cID = crewID;
+            String d = department;
 
-        return "Placeholder";
+        return (fn+"\tCrewID:"+cID+"\t"+"["+department+"]");
     }
 
 
