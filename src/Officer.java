@@ -7,8 +7,9 @@ public class Officer {
 
     int numPromotedOfficers = 0;
 
+    public Officer(String inFN, int inCID, String inDT, int inRK, LocalDate inDP){
 
-    public Officer(){
+
 
     }
 }
